@@ -1,7 +1,6 @@
 # 🧠 AI Brain Tumor Detector  
 
 Welcome to the **AI Brain Tumor Detector** – a cutting-edge MRI image analysis tool powered by **Deep Learning** & **Google Gemini AI**! 🚀  
-
 This Streamlit-based web application allows users to upload MRI scans and receive an instant analysis on the possibility of a brain tumor. It integrates a pre-trained CNN model for classification and utilizes **Google Gemini AI** for detailed medical insights. 🏥💡  
 
 ---
@@ -9,13 +8,9 @@ This Streamlit-based web application allows users to upload MRI scans and receiv
 ## ✨ Features  
 
 ✅ **Deep Learning-Based Prediction** – Detects brain tumors from MRI scans using a trained **Convolutional Neural Network (CNN)**.  
-
 ✅ **Google Gemini AI Integration** – Provides detailed medical explanations based on the uploaded MRI image.  
-
 ✅ **Interactive Visualization** – Displays prediction confidence and a **Grad-CAM heatmap** to highlight important regions.  
-
 ✅ **User-Friendly Interface** – Built with **Streamlit**, making it easy to use with a sleek design. 🎨  
-
 ✅ **Secure & Fast Processing** – Optimized for real-time analysis with caching & timeout handling. ⚡  
 
 ---
@@ -88,8 +83,7 @@ A big thanks to the **open-source community, medical researchers, and AI pioneer
 
 ## 📞 Contact  
 
-📧 **Email:** your.email@example.com  
-🐦 **Twitter:** [@YourHandle](https://twitter.com/YourHandle)  
-📂 **GitHub:** [YourRepo](https://github.com/your-repo)  
+📧 **Email:** ghost404sec@gmail.com 
+📂 **GitHub:** [Farrel0xx]([(https://github.com/Farrel0xx/))  
 
 💙 Let’s **revolutionize healthcare with AI**! 🏥🤖  
